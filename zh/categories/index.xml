@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>栏目 on 瓦尔登湖</title>
+    <link>https://github.com/Homecat805/hugo-theme-walden-demo/zh/categories/</link>
+    <description>Recent content in 栏目 on 瓦尔登湖</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>author@domain.com (作者名称)</managingEditor>
+    <webMaster>author@domain.com (作者名称)</webMaster>
+    <lastBuildDate>Wed, 23 Nov 2022 11:44:14 +0800</lastBuildDate><atom:link href="https://github.com/Homecat805/hugo-theme-walden-demo/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>数字笔记</title>
+      <link>https://github.com/Homecat805/hugo-theme-walden-demo/zh/categories/%E6%95%B0%E5%AD%97%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Wed, 23 Nov 2022 11:44:14 +0800</pubDate>
+      <author>author@domain.com (作者名称)</author>
+      <guid>https://github.com/Homecat805/hugo-theme-walden-demo/zh/categories/%E6%95%B0%E5%AD%97%E7%AC%94%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

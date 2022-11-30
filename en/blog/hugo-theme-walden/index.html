@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<meta charset="utf-8" />
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+<meta name="descriptison" content="Description for site">
+<meta name="keywords" content="Keywords for site">
+
+
+
+
+<title>Hugo Theme Walden ｜ Walden</title>
+
+
+
+<link href="/Homecat805/hugo-theme-walden-demo/favicon.png" rel="icon">
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+
+
+
+<link rel="stylesheet" type="text/css" media="screen" href="https://github.com/Homecat805/hugo-theme-walden-demo/css/main.css"><body class="bg-grey-100"><div id="header">
+    <div class="container-fluid bg-white">
+        <div class="container">
+            <div class="header">
+
+                <div class="logo">Walden</div>
+                
+                <nav class="menu">
+                    
+                    
+                        
+                        
+                        <a class="menu-item " href="/Homecat805/hugo-theme-walden-demo/en/">Home</a>
+                    
+                        
+                        
+                        <a class="menu-item  active " href="/Homecat805/hugo-theme-walden-demo/en/blog/">Blog</a>
+                    
+            
+                    
+                        
+                            <a href="https://github.com/Homecat805/hugo-theme-walden-demo/zh/">中文</a>
+                            
+                        
+                    
+        
+                </nav>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="necker"><div class="container-fluid bg-grey-100" >
+    <div class="container">
+        <ol class="breadcrumb">
+            
+            
+                
+            
+                
+            
+            <li class="breadcrumb-item">Home</li>
+        
+            
+            <li class="breadcrumb-item">Blog</li>
+        
+            
+            <li class="breadcrumb-item">Hugo Theme Walden</li>
+        
+        </ol>
+        
+
+    </div>
+</div></div>
+
+<div id="stager">
+
+    <div class="container-fluid bg-grey-100">
+        <div class="container">
+            <div class="stager">
+                <main><div class="container-main">
+
+    <div class="container-main-item">
+        
+        <article class="content">
+            <div class="content-header">
+                <h1 class="title">Hugo Theme Walden</h1>
+                <p class="meta">
+                    <span>Nov 23, 2022</span>
+                    <span>By</span>
+                    <span>
+                    
+                    Homecat
+                    
+                    </span>
+                </p>
+            </div>
+            <div class="markdown"><p>After reading <i><b>Walden</b></i>, a collection of essays by American writer Henry David Thoreau, I was deeply influenced by his love of nature and simple living. So, I wrote this concise and clear theme for my personal website and named it Walden.</p>
+<h2 id="features">Features</h2>
+<p>Walden is a simple-structured, easy-to-use Hugo theme for personal websites.</p>
+<ul>
+<li>Multilingual support</li>
+<li>Responsive design</li>
+<li>Headline on homepage</li>
+<li>Thumbnail for post</li>
+<li>Personalized shortcodes</li>
+<li>&hellip;</li>
+</ul>
+<h2 id="demo">Demo</h2>
+<p>Two ways to see the demo：</p>
+<ul>
+<li>
+<p>Visit writer&rsquo;s homepage: <a href="https://genway.com.cn">https://genway.com.cn</a></p>
+</li>
+<li>
+<p>View demo by clone repository from Github: <a href="https://github.com/homecat805/hugo-theme-walden.git">https://github.com/homecat805/hugo-theme-walden.git</a></p>
+<pre tabindex="0"><code>git clone https://github.com/homecat805/hugo-theme-walden.git hugo-theme-walden
+cd exampleSite
+hugo server --themesDir ../..
+</code></pre></li>
+</ul>
+<h2 id="quick-start">Quick start</h2>
+<p>The Hugo documentation <a href="https://gohugo.io/installation/">https://gohugo.io/installation/</a> describes in detail how to install on different operating systems, which will not be repeated here, the operating system related to this article is Ubuntu 22.04 LTS.</p>
+<ul>
+<li>
+<p>Create the website root directory <code>mysite</code> and perform git initialization:</p>
+<pre tabindex="0"><code>mkdir mysite
+cd mysite
+git init
+git branch -m main
+</code></pre></li>
+<li>
+<p>Install the theme as a module to the <code>mysite/themes</code> directory of the website, and copy all the files in the <code>exampleSite</code> directory within the theme to the root directory of the website:</p>
+<pre tabindex="0"><code>mkdir themes
+git submodule add git@github.com:Homecat805/hugo-theme-walden.git themes/hugo-theme-walden
+cp -rf themes/hugo-theme-walden/exampleSite/* ./
+</code></pre></li>
+</ul>
+<p>In subsequent use, if you need to update the theme, use the following command:</p>
+<pre tabindex="0"><code>git submodule update --remote --merge
+</code></pre><h2 id="configuration">Configuration</h2>
+<p>The configuration file for the site is <code>config.toml</code>。</p>
+<ul>
+<li>
+<p>Configure baseURL: URL of user&rsquo;s website on the internet.</p>
+<pre tabindex="0"><code>baseURL = &#34;https://github.com/homecat805/walden/&#34;
+</code></pre></li>
+<li>
+<p>Configure theme</p>
+<pre tabindex="0"><code>theme = &#34;hugo-theme-walden&#34;
+</code></pre></li>
+<li>
+<p>Configure language mode: Multilingual mode is used by default, and single-language mode is configured as <code>false</code>.</p>
+<pre tabindex="0"><code>[params]
+    multilingual = true  
+</code></pre></li>
+<li>
+<p>Configuration language: English is used by default, and <code>&quot;zh&quot;</code> for using Chinese.</p>
+<pre tabindex="0"><code>defaultContentLanguage = &#34;en&#34;
+</code></pre></li>
+<li>
+<p>Configure site name: According to Hugo documentation, websites in different languages are side by side, use different name for dependent site.</p>
+<pre tabindex="0"><code>[language]
+    [languages.en]
+        title = &#34;Walden&#34;
+        ...
+    [languages.zh]
+        title = &#34;瓦尔登湖&#34;
+        ...
+</code></pre></li>
+<li>
+<p>Configure author information</p>
+<pre tabindex="0"><code>[language]
+    [languages.en]
+        [languages.en.author]
+            name = &#34;Homecata&#34;
+            description = &#34;Author Description&#34;
+            email = &#34;13050082@qq.com&#34;
+            avatar = &#34;images/avatar/default.jpg&#34;
+    [languages.zh]
+        [languages.zh.author]
+            name = &#34;家猫&#34;
+            description = &#34;作者介绍&#34;
+            email = &#34;13050082@qq.com&#34;
+            avatar = &#34;images/avatar/default.jpg&#34;
+</code></pre></li>
+</ul>
+<h2 id="preview">Preview</h2>
+<p>Executing the command, visit <code>http://localhost:1313/</code> to preview website locally.</p>
+<pre tabindex="0"><code>hugo server
+</code></pre><h2 id="create-site">Create Site</h2>
+<p>Executing the command, the system will store all the files generated for the static website in the <code>mysite/public</code> directory, which can be accessed after uploading to the Internet.</p>
+<pre tabindex="0"><code>hugo
+</code></pre><h2 id="license">License</h2>
+<p>Walden is licensed under the MIT，Check the  <a href="https://github.com/homecat805/hugo-theme-walden/blob/master/LICENSE">LICENSE</a> file for details.</p></div>
+        </article>
+    </div>
+
+    <div class="container-main-item">
+        
+        
+        <div class="content-tag">
+            
+            <a href="/Homecat805/hugo-theme-walden-demo/en/tags/hugo-theme">Hugo-theme</a>
+            
+        </div> 
+        
+    </div>
+
+    <div class="container-main-item">
+        
+        <div class="content-nav">
+            
+            
+        </div>
+    </div>
+
+</div>
+
+</main>
+                <div class="holder"></div>
+                <aside><div class="container-card">
+    <div id="toc">
+        <div class="card">
+            <div class="card-title">TABLE OF CONTENT</div>
+            <div class="normal"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#demo">Demo</a></li>
+    <li><a href="#quick-start">Quick start</a></li>
+    <li><a href="#configuration">Configuration</a></li>
+    <li><a href="#preview">Preview</a></li>
+    <li><a href="#create-site">Create Site</a></li>
+    <li><a href="#license">License</a></li>
+  </ul>
+</nav></div>
+        </div>
+    </div>
+</div>
+
+<div class="container-card">
+    
+    
+</div></aside>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+<div id="totoc">
+    <a href="#toc"><i class="bi bi-chevron-up"></i></a>
+</div>
+
+<div class="footer">
+    <div class="container-fluid bg-primary-light">
+        <div class="container">
+
+            <div class="footnote">
+
+                <div class="footnote-item-container">
+                    <div class="footnote-item">
+                        
+
+                    </div>
+                </div>
+
+                <div class="footnote-item-container">
+                    <div class="footnote-item">
+
+                    </div>
+                </div>
+
+                <div class="footnote-item-container">
+                    <div class="footnote-item">
+
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+    <div class="container-fluid bg-primary-dark">
+        <div class="container">
+
+            <div class="copyright">
+                <div class="container-fluid">
+                    <div class="container">         
+                    
+                        <span>Copyright</span>
+                        <span>©2022</span>
+                        <span>Author Name</span>
+                    
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+<script type="text/javascript" src="/Homecat805/hugo-theme-walden-demo/js/main.js"></script></body>
+    
+</html>

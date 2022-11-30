@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<meta charset="utf-8" />
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+<meta name="descriptison" content="Description for site">
+<meta name="keywords" content="Keywords for site">
+
+
+
+
+<title>Hugo 主题 - Walden ｜ 瓦尔登湖</title>
+
+
+
+<link href="/Homecat805/hugo-theme-walden-demo/favicon.png" rel="icon">
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+
+
+
+<link rel="stylesheet" type="text/css" media="screen" href="https://github.com/Homecat805/hugo-theme-walden-demo/css/main.css"><body class="bg-grey-100"><div id="header">
+    <div class="container-fluid bg-white">
+        <div class="container">
+            <div class="header">
+
+                <div class="logo">瓦尔登湖</div>
+                
+                <nav class="menu">
+                    
+                    
+                        
+                        
+                        <a class="menu-item " href="/Homecat805/hugo-theme-walden-demo/zh/">首页</a>
+                    
+                        
+                        
+                        <a class="menu-item  active " href="/Homecat805/hugo-theme-walden-demo/zh/blog/">博客</a>
+                    
+            
+                    
+                            <a href="https://github.com/Homecat805/hugo-theme-walden-demo/en/">English</a>
+                            
+                        
+                        
+                    
+        
+                </nav>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="necker"><div class="container-fluid bg-grey-100" >
+    <div class="container">
+        <ol class="breadcrumb">
+            
+            
+                
+            
+                
+            
+            <li class="breadcrumb-item">首页</li>
+        
+            
+            <li class="breadcrumb-item">博客</li>
+        
+            
+            <li class="breadcrumb-item">Hugo 主题 - Walden</li>
+        
+        </ol>
+        
+
+    </div>
+</div></div>
+
+<div id="stager">
+
+    <div class="container-fluid bg-grey-100">
+        <div class="container">
+            <div class="stager">
+                <main><div class="container-main">
+
+    <div class="container-main-item">
+        
+        <article class="content">
+            <div class="content-header">
+                <h1 class="title">Hugo 主题 - Walden</h1>
+                <p class="meta">
+                    <span>Nov 23, 2022</span>
+                    <span>By</span>
+                    <span>
+                    
+                    家猫
+                    
+                    </span>
+                </p>
+            </div>
+            <div class="markdown"><p>读了美国作家 <b>Henry David Thoreau</b> 的散文集《瓦尔登湖》，深受其热爱自然、崇尚简朴生活的思想的影响。于是，写了这个简洁明了的主题用于我的个人网站，并命名为 Walden。</p>
+<h2 id="特点">特点</h2>
+<p>Walden 是一个结构简单、容易使用的 Hugo 主题，适用于个人网站。</p>
+<ul>
+<li>多语言模式：主题默认使用英语和中文两种语言，也可以通过配置只使用一种但或两种以上的语言。</li>
+<li>自适应设计：主题针对不同尺寸的屏幕，作了合理的布局和设计。</li>
+<li>主页头条：主题在首页增加了头条的功能，将最重要的发布以最直接的方法展示给访问者。</li>
+<li>略缩图：主题提供了略缩图功能，图文并茂，页面简洁不单调。</li>
+<li>短代码：主题中使用短代码，使文章中的图片等得到更好的展示。</li>
+<li>&hellip;</li>
+</ul>
+<h2 id="演示">演示</h2>
+<p>通过两种方式演示这个主题的效果：</p>
+<ul>
+<li>
+<p>访问作者的个人网站: <a href="https://genway.com.cn">https://genway.com.cn</a></p>
+</li>
+<li>
+<p>克隆仓库到本地，主题仓库托管在 Github: <a href="https://github.com/homecat805/hugo-theme-walden.git">https://github.com/homecat805/hugo-theme-walden.git</a></p>
+<pre tabindex="0"><code>git clone https://github.com/homecat805/hugo-theme-walden.git hugo-theme-walden
+cd exampleSite
+hugo server --themesDir ../..
+</code></pre></li>
+</ul>
+<h2 id="快速开始">快速开始</h2>
+<p>首先要安装 Hugo，Hugo 文档 <a href="https://gohugo.io/installation/">https://gohugo.io/installation/</a> 详细地介绍了不同操作系统上的安装方式，本文不赘述（本文相关的操作系统是 Ubuntu 22.04 LTS）。</p>
+<ul>
+<li>
+<p>生成一个网站 <code>mysite</code>，并初始化 git （git 为版本管理工具需另行安装）：</p>
+<pre tabindex="0"><code>mkdir mysite
+cd mysite
+git init
+git branch -m main
+</code></pre></li>
+<li>
+<p>将主题以模块的形式安装到网站的 <code>mysite/themes</code> 目录下，并将主题内 <code>exampleSite</code> 目录中所有文件复制到网站根目录下：</p>
+<pre tabindex="0"><code>mkdir themes
+git submodule add git@github.com:Homecat805/hugo-theme-walden.git themes/hugo-theme-walden
+cp -rf themes/hugo-theme-walden/exampleSite/* ./
+</code></pre></li>
+</ul>
+<p>在后续的使用中，如需更新主题，使用如下命令：</p>
+<pre tabindex="0"><code>git submodule update --remote --merge
+</code></pre><h2 id="配置网站">配置网站</h2>
+<p>网站的配置文件为： <code>config.toml</code>。</p>
+<ul>
+<li>
+<p>配置基本网址：用户网站空间的地址。</p>
+<pre tabindex="0"><code>baseURL = &#34;https://github.com/homecat805/walden/&#34;
+</code></pre></li>
+<li>
+<p>配置主题</p>
+<pre tabindex="0"><code>theme = &#34;hugo-theme-walden&#34;
+</code></pre></li>
+<li>
+<p>配置语言模式：默认使用多语言模式，单语言模式配置为 <code>false</code>。</p>
+<pre tabindex="0"><code>[params]
+    multilingual = true  
+</code></pre></li>
+<li>
+<p>配置语言：默认使用英语，使用中文配置为 <code>&quot;zh&quot;</code>。</p>
+<pre tabindex="0"><code>defaultContentLanguage = &#34;en&#34;
+</code></pre></li>
+<li>
+<p>配置网站名称：根据 Hugo 文档，不用语言的网站是相互独立的，可使用不同的网站名。</p>
+<pre tabindex="0"><code>[language]
+    [languages.en]
+        title = &#34;Walden&#34;
+        ...
+    [languages.zh]
+        title = &#34;瓦尔登湖&#34;
+        ...
+</code></pre></li>
+<li>
+<p>配置作者信息</p>
+<pre tabindex="0"><code>[language]
+    [languages.en]
+        [languages.en.author]
+            name = &#34;Homecata&#34;
+            description = &#34;Author Description&#34;
+            email = &#34;13050082@qq.com&#34;
+            avatar = &#34;images/avatar/default.jpg&#34;
+    [languages.zh]
+        [languages.zh.author]
+            name = &#34;家猫&#34;
+            description = &#34;作者介绍&#34;
+            email = &#34;13050082@qq.com&#34;
+            avatar = &#34;images/avatar/default.jpg&#34;
+</code></pre></li>
+</ul>
+<h2 id="预览网站">预览网站</h2>
+<p>执行命令后，根据提示在本地访问 http://localhost:1313/ 可预览网站。</p>
+<pre tabindex="0"><code>hugo server
+</code></pre><h2 id="生成网站">生成网站</h2>
+<p>执行命令后，系统将生成静态网站的所有文件存放在 <code>mysite/public</code> 目录下，上传到互联网后可被访问。</p>
+<pre tabindex="0"><code>hugo
+</code></pre><h2 id="证书">证书</h2>
+<p>Walden 使用 MIT 证书，访问 <a href="https://github.com/homecat805/hugo-theme-walden/blob/master/LICENSE">证书</a>。</p></div>
+        </article>
+    </div>
+
+    <div class="container-main-item">
+        
+        
+        <div class="content-tag">
+            
+            <a href="/Homecat805/hugo-theme-walden-demo/zh/tags/hugo">Hugo</a>
+            
+        </div> 
+        
+    </div>
+
+    <div class="container-main-item">
+        
+        <div class="content-nav">
+            
+            
+        </div>
+    </div>
+
+</div>
+
+</main>
+                <div class="holder"></div>
+                <aside><div class="container-card">
+    <div id="toc">
+        <div class="card">
+            <div class="card-title">目录</div>
+            <div class="normal"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#特点">特点</a></li>
+    <li><a href="#演示">演示</a></li>
+    <li><a href="#快速开始">快速开始</a></li>
+    <li><a href="#配置网站">配置网站</a></li>
+    <li><a href="#预览网站">预览网站</a></li>
+    <li><a href="#生成网站">生成网站</a></li>
+    <li><a href="#证书">证书</a></li>
+  </ul>
+</nav></div>
+        </div>
+    </div>
+</div>
+
+<div class="container-card">
+    
+    
+</div></aside>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+<div id="totoc">
+    <a href="#toc"><i class="bi bi-chevron-up"></i></a>
+</div>
+
+<div class="footer">
+    <div class="container-fluid bg-primary-light">
+        <div class="container">
+
+            <div class="footnote">
+
+                <div class="footnote-item-container">
+                    <div class="footnote-item">
+                        
+
+                    </div>
+                </div>
+
+                <div class="footnote-item-container">
+                    <div class="footnote-item">
+
+                    </div>
+                </div>
+
+                <div class="footnote-item-container">
+                    <div class="footnote-item">
+
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+    <div class="container-fluid bg-primary-dark">
+        <div class="container">
+
+            <div class="copyright">
+                <div class="container-fluid">
+                    <div class="container">         
+                    
+                        <span>©2022</span>
+                        <span>作者名称</span>
+                        <span>版权所有</span>
+                    
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+<script type="text/javascript" src="/Homecat805/hugo-theme-walden-demo/js/main.js"></script></body>
+    
+</html>

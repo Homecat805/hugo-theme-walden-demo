@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category on Walden</title>
+    <link>https://github.com/Homecat805/hugo-theme-walden-demo/en/categories/</link>
+    <description>Recent content in Category on Walden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>author@domain.com (Author Name)</managingEditor>
+    <webMaster>author@domain.com (Author Name)</webMaster>
+    <lastBuildDate>Wed, 23 Nov 2022 11:44:14 +0800</lastBuildDate><atom:link href="https://github.com/Homecat805/hugo-theme-walden-demo/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>https://github.com/Homecat805/hugo-theme-walden-demo/en/categories/notes/</link>
+      <pubDate>Wed, 23 Nov 2022 11:44:14 +0800</pubDate>
+      <author>author@domain.com (Author Name)</author>
+      <guid>https://github.com/Homecat805/hugo-theme-walden-demo/en/categories/notes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
