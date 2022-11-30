@@ -2,75 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/Homecat805/hugo-theme-walden-demo/en/blog/</loc>
+    <loc>https://Homecat805.github.com/hugo-theme-walden-demo/en/blog/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://github.com/Homecat805/hugo-theme-walden-demo/zh/blog/"
+                href="https://Homecat805.github.com/hugo-theme-walden-demo/zh/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/Homecat805/hugo-theme-walden-demo/en/blog/"
+                href="https://Homecat805.github.com/hugo-theme-walden-demo/en/blog/"
                 />
   </url><url>
-    <loc>https://github.com/Homecat805/hugo-theme-walden-demo/en/categories/</loc>
+    <loc>https://Homecat805.github.com/hugo-theme-walden-demo/en/categories/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://github.com/Homecat805/hugo-theme-walden-demo/zh/categories/"
+                href="https://Homecat805.github.com/hugo-theme-walden-demo/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/Homecat805/hugo-theme-walden-demo/en/categories/"
+                href="https://Homecat805.github.com/hugo-theme-walden-demo/en/categories/"
                 />
   </url><url>
-    <loc>https://github.com/Homecat805/hugo-theme-walden-demo/en/</loc>
+    <loc>https://Homecat805.github.com/hugo-theme-walden-demo/en/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://github.com/Homecat805/hugo-theme-walden-demo/zh/"
+                href="https://Homecat805.github.com/hugo-theme-walden-demo/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/Homecat805/hugo-theme-walden-demo/en/"
+                href="https://Homecat805.github.com/hugo-theme-walden-demo/en/"
                 />
   </url><url>
-    <loc>https://github.com/Homecat805/hugo-theme-walden-demo/en/blog/hugo-theme-walden/</loc>
+    <loc>https://Homecat805.github.com/hugo-theme-walden-demo/en/blog/hugo-theme-walden/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://github.com/Homecat805/hugo-theme-walden-demo/zh/blog/hugo-theme-walden/"
+                href="https://Homecat805.github.com/hugo-theme-walden-demo/zh/blog/hugo-theme-walden/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/Homecat805/hugo-theme-walden-demo/en/blog/hugo-theme-walden/"
+                href="https://Homecat805.github.com/hugo-theme-walden-demo/en/blog/hugo-theme-walden/"
                 />
   </url><url>
-    <loc>https://github.com/Homecat805/hugo-theme-walden-demo/en/tags/hugo-theme/</loc>
+    <loc>https://Homecat805.github.com/hugo-theme-walden-demo/en/tags/hugo-theme/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
   </url><url>
-    <loc>https://github.com/Homecat805/hugo-theme-walden-demo/en/categories/notes/</loc>
+    <loc>https://Homecat805.github.com/hugo-theme-walden-demo/en/categories/notes/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
   </url><url>
-    <loc>https://github.com/Homecat805/hugo-theme-walden-demo/en/tags/</loc>
+    <loc>https://Homecat805.github.com/hugo-theme-walden-demo/en/tags/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://github.com/Homecat805/hugo-theme-walden-demo/zh/tags/"
+                href="https://Homecat805.github.com/hugo-theme-walden-demo/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/Homecat805/hugo-theme-walden-demo/en/tags/"
+                href="https://Homecat805.github.com/hugo-theme-walden-demo/en/tags/"
                 />
   </url>
 </urlset>
