@@ -2,75 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Homecat805.github.io/hugo-theme-walden-demo/zh/tags/hugo/</loc>
+    <loc>https://example.org/zh/tags/hugo/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
   </url><url>
-    <loc>https://Homecat805.github.io/hugo-theme-walden-demo/zh/blog/hugo-theme-walden/</loc>
-    <lastmod>2022-11-23T11:44:14+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Homecat805.github.io/hugo-theme-walden-demo/en/blog/hugo-theme-walden/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://Homecat805.github.io/hugo-theme-walden-demo/zh/blog/hugo-theme-walden/"
-                />
-  </url><url>
-    <loc>https://Homecat805.github.io/hugo-theme-walden-demo/zh/tags/</loc>
+    <loc>https://example.org/zh/blog/hugo-theme-walden/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Homecat805.github.io/hugo-theme-walden-demo/en/tags/"
+                href="https://example.org/en/blog/hugo-theme-walden/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://Homecat805.github.io/hugo-theme-walden-demo/zh/tags/"
+                href="https://example.org/zh/blog/hugo-theme-walden/"
                 />
   </url><url>
-    <loc>https://Homecat805.github.io/hugo-theme-walden-demo/zh/blog/</loc>
+    <loc>https://example.org/zh/tags/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Homecat805.github.io/hugo-theme-walden-demo/en/blog/"
+                href="https://example.org/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://Homecat805.github.io/hugo-theme-walden-demo/zh/blog/"
+                href="https://example.org/zh/tags/"
                 />
   </url><url>
-    <loc>https://Homecat805.github.io/hugo-theme-walden-demo/zh/categories/</loc>
+    <loc>https://example.org/zh/blog/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Homecat805.github.io/hugo-theme-walden-demo/en/categories/"
+                href="https://example.org/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://Homecat805.github.io/hugo-theme-walden-demo/zh/categories/"
+                href="https://example.org/zh/blog/"
                 />
   </url><url>
-    <loc>https://Homecat805.github.io/hugo-theme-walden-demo/zh/</loc>
+    <loc>https://example.org/zh/categories/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Homecat805.github.io/hugo-theme-walden-demo/en/"
+                href="https://example.org/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://Homecat805.github.io/hugo-theme-walden-demo/zh/"
+                href="https://example.org/zh/categories/"
                 />
   </url><url>
-    <loc>https://Homecat805.github.io/hugo-theme-walden-demo/zh/categories/%E6%95%B0%E5%AD%97%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://example.org/zh/</loc>
+    <lastmod>2022-11-23T11:44:14+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.org/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://example.org/zh/"
+                />
+  </url><url>
+    <loc>https://example.org/zh/categories/%E6%95%B0%E5%AD%97%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
   </url>
 </urlset>

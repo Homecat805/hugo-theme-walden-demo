@@ -2,20 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo-theme on Walden</title>
-    <link>https://Homecat805.github.io/hugo-theme-walden-demo/en/tags/hugo-theme/</link>
+    <link>https://example.org/en/tags/hugo-theme/</link>
     <description>Recent content in Hugo-theme on Walden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <managingEditor>author@domain.com (Author Name)</managingEditor>
     <webMaster>author@domain.com (Author Name)</webMaster>
-    <lastBuildDate>Wed, 23 Nov 2022 11:44:14 +0800</lastBuildDate><atom:link href="https://Homecat805.github.io/hugo-theme-walden-demo/en/tags/hugo-theme/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2022 11:44:14 +0800</lastBuildDate><atom:link href="https://example.org/en/tags/hugo-theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Theme Walden</title>
-      <link>https://Homecat805.github.io/hugo-theme-walden-demo/en/blog/hugo-theme-walden/</link>
+      <link>https://example.org/en/blog/hugo-theme-walden/</link>
       <pubDate>Wed, 23 Nov 2022 11:44:14 +0800</pubDate>
       <author>author@domain.com (Author Name)</author>
-      <guid>https://Homecat805.github.io/hugo-theme-walden-demo/en/blog/hugo-theme-walden/</guid>
+      <guid>https://example.org/en/blog/hugo-theme-walden/</guid>
       <description>&lt;p&gt;After reading &lt;i&gt;&lt;b&gt;Walden&lt;/b&gt;&lt;/i&gt;, a collection of essays by American writer Henry David Thoreau, I was deeply influenced by his love of nature and simple living. So, I wrote this concise and clear theme for my personal website and named it Walden.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Examples for Hugo Theme Walden</title>
+      <link>https://example.org/en/blog/markdown-syntax-example/</link>
+      <pubDate>Mon, 19 Sep 2022 20:51:46 +0800</pubDate>
+      <author>author@domain.com (Author Name)</author>
+      <guid>https://example.org/en/blog/markdown-syntax-example/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
   </channel>
