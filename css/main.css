@@ -513,10 +513,10 @@ body {
 .markdown ol, .markdown ul {
   color: #495057;
   margin-top: 1rem;
-  padding-left: 2.5rem; }
+  padding-left: 1.5rem; }
   .markdown ol ol, .markdown ol ul, .markdown ul ol, .markdown ul ul {
     margin-top: 0;
-    padding-left: 1.5rem; }
+    padding-left: 1.25rem; }
   .markdown ol li, .markdown ul li {
     margin-top: .5rem; }
 
@@ -546,6 +546,19 @@ body {
     background-color: #e9ecef;
     padding: .25rem .5rem;
     text-align: center; }
+
+@media (min-width: 768px) {
+  .markdown ol, .markdown ul {
+    color: #495057;
+    margin-top: 1rem;
+    padding-left: 2.5rem; }
+    .markdown ol ol, .markdown ol ul, .markdown ul ol, .markdown ul ul {
+      margin-top: 0;
+      padding-left: 1.5rem; }
+    .markdown ol li, .markdown ul li {
+      margin-top: .5rem; }
+  .markdown ul {
+    list-style: disc; } }
 
 .figure-modal-container {
   position: fixed;
