@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on 瓦尔登湖</title>
+    <link>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/markdown/</link>
+    <description>Recent content in Markdown on 瓦尔登湖</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>author@domain.com (作者名称)</managingEditor>
+    <webMaster>author@domain.com (作者名称)</webMaster>
+    <lastBuildDate>Mon, 19 Sep 2022 20:51:46 +0800</lastBuildDate><atom:link href="https://genway.com.cn/hugo-theme-walden-demo/zh/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Walden 主题中 markdown 语法及示例 - 文本</title>
+      <link>https://genway.com.cn/hugo-theme-walden-demo/zh/blog/markdown-syntax-example/</link>
+      <pubDate>Mon, 19 Sep 2022 20:51:46 +0800</pubDate>
+      <author>author@domain.com (作者名称)</author>
+      <guid>https://genway.com.cn/hugo-theme-walden-demo/zh/blog/markdown-syntax-example/</guid>
+      <description>&lt;p&gt;本文介绍编辑与文本有关的内容要素时常用的 Markdown 基本语法以及在 walden 主题中的示例。例如：标题、段落、引用、注解和列表等。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

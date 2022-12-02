@@ -56,9 +56,29 @@
   </url><url>
     <loc>https://genway.com.cn/hugo-theme-walden-demo/en/tags/hugo-theme/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://genway.com.cn/hugo-theme-walden-demo/zh/tags/hugo-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genway.com.cn/hugo-theme-walden-demo/en/tags/hugo-theme/"
+                />
   </url><url>
     <loc>https://genway.com.cn/hugo-theme-walden-demo/en/categories/notes/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://genway.com.cn/hugo-theme-walden-demo/zh/categories/notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genway.com.cn/hugo-theme-walden-demo/en/categories/notes/"
+                />
   </url><url>
     <loc>https://genway.com.cn/hugo-theme-walden-demo/en/tags/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
@@ -75,8 +95,28 @@
   </url><url>
     <loc>https://genway.com.cn/hugo-theme-walden-demo/en/tags/markdown/</loc>
     <lastmod>2022-09-19T20:51:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://genway.com.cn/hugo-theme-walden-demo/zh/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genway.com.cn/hugo-theme-walden-demo/en/tags/markdown/"
+                />
   </url><url>
     <loc>https://genway.com.cn/hugo-theme-walden-demo/en/blog/markdown-syntax-example/</loc>
     <lastmod>2022-09-19T20:51:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://genway.com.cn/hugo-theme-walden-demo/zh/blog/markdown-syntax-example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genway.com.cn/hugo-theme-walden-demo/en/blog/markdown-syntax-example/"
+                />
   </url>
 </urlset>

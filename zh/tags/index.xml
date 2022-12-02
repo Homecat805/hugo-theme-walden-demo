@@ -18,5 +18,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Hugo-theme</title>
+      <link>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/hugo-theme/</link>
+      <pubDate>Mon, 19 Sep 2022 20:51:46 +0800</pubDate>
+      <author>author@domain.com (作者名称)</author>
+      <guid>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/hugo-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/markdown/</link>
+      <pubDate>Mon, 19 Sep 2022 20:51:46 +0800</pubDate>
+      <author>author@domain.com (作者名称)</author>
+      <guid>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
