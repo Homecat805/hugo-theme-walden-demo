@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>标签 on 瓦尔登湖</title>
-    <link>https://example.org/zh/tags/</link>
+    <link>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/</link>
     <description>Recent content in 标签 on 瓦尔登湖</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <managingEditor>author@domain.com (作者名称)</managingEditor>
     <webMaster>author@domain.com (作者名称)</webMaster>
-    <lastBuildDate>Wed, 23 Nov 2022 11:44:14 +0800</lastBuildDate><atom:link href="https://example.org/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2022 11:44:14 +0800</lastBuildDate><atom:link href="https://genway.com.cn/hugo-theme-walden-demo/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>https://example.org/zh/tags/hugo/</link>
+      <link>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/hugo/</link>
       <pubDate>Wed, 23 Nov 2022 11:44:14 +0800</pubDate>
       <author>author@domain.com (作者名称)</author>
-      <guid>https://example.org/zh/tags/hugo/</guid>
+      <guid>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/hugo/</guid>
       <description></description>
     </item>
     

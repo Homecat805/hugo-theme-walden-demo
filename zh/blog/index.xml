@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>博客 on 瓦尔登湖</title>
-    <link>https://example.org/zh/blog/</link>
+    <link>https://genway.com.cn/hugo-theme-walden-demo/zh/blog/</link>
     <description>Recent content in 博客 on 瓦尔登湖</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <managingEditor>author@domain.com (作者名称)</managingEditor>
     <webMaster>author@domain.com (作者名称)</webMaster>
-    <lastBuildDate>Wed, 23 Nov 2022 11:44:14 +0800</lastBuildDate><atom:link href="https://example.org/zh/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2022 11:44:14 +0800</lastBuildDate><atom:link href="https://genway.com.cn/hugo-theme-walden-demo/zh/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo 主题 - Walden</title>
-      <link>https://example.org/zh/blog/hugo-theme-walden/</link>
+      <link>https://genway.com.cn/hugo-theme-walden-demo/zh/blog/hugo-theme-walden/</link>
       <pubDate>Wed, 23 Nov 2022 11:44:14 +0800</pubDate>
       <author>author@domain.com (作者名称)</author>
-      <guid>https://example.org/zh/blog/hugo-theme-walden/</guid>
+      <guid>https://genway.com.cn/hugo-theme-walden-demo/zh/blog/hugo-theme-walden/</guid>
       <description>&lt;p&gt;读了美国作家 &lt;b&gt;Henry David Thoreau&lt;/b&gt; 的散文集《瓦尔登湖》，深受其热爱自然、崇尚简朴生活的思想的影响。于是，写了这个简洁明了的主题用于我的个人网站，并命名为 Walden。&lt;/p&gt;</description>
     </item>
     
