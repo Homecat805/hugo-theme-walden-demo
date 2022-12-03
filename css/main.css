@@ -33,6 +33,9 @@ a {
 .container-card {
   margin: 1rem 1rem 2rem; }
 
+.container-table {
+  overflow: auto; }
+
 @media (min-width: 768px) {
   .container-main {
     margin-left: 1rem; }
@@ -547,7 +550,7 @@ body {
   color: #d63384; }
 
 .markdown table {
-  overflow: scroll;
+  overflow: auto;
   margin-top: 1rem;
   font-size: .875rem;
   color: #495057; }
