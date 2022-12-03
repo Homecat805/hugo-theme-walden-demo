@@ -547,6 +547,7 @@ body {
   color: #d63384; }
 
 .markdown table {
+  overflow: auto;
   margin-top: 1rem;
   font-size: .875rem;
   color: #495057; }
