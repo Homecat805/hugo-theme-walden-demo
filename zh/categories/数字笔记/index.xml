@@ -18,5 +18,14 @@
       <description>&lt;p&gt;读了美国作家 &lt;b&gt;Henry David Thoreau&lt;/b&gt; 的散文集《瓦尔登湖》，深受其热爱自然、崇尚简朴生活的思想的影响。于是，写了这个简洁明了的主题用于我的个人网站，并命名为 Walden。&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Walden 主题中 markdown 语法效果演示</title>
+      <link>https://genway.com.cn/hugo-theme-walden-demo/zh/blog/markdown-syntax-example/</link>
+      <pubDate>Mon, 19 Sep 2022 20:51:46 +0800</pubDate>
+      <author>author@domain.com (作者名称)</author>
+      <guid>https://genway.com.cn/hugo-theme-walden-demo/zh/blog/markdown-syntax-example/</guid>
+      <description>&lt;p&gt;Walden 主题使用标准的 markdown 语法编辑内容，本文演示了构成内容的标题、段落、图片、表格等要素的具体例子。&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>

@@ -24,7 +24,7 @@
       <pubDate>Mon, 19 Sep 2022 20:51:46 +0800</pubDate>
       <author>author@domain.com (Author Name)</author>
       <guid>https://genway.com.cn/hugo-theme-walden-demo/en/blog/markdown-syntax-example/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The Walden theme uses standard markdown syntax to edit content, and this article demonstrates concrete examples of the elements that make up content, such as headings, paragraphs, images, tables, and so on.&lt;/p&gt;</description>
     </item>
     
   </channel>

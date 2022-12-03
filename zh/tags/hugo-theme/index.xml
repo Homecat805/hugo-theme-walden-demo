@@ -10,12 +10,12 @@
     <webMaster>author@domain.com (作者名称)</webMaster>
     <lastBuildDate>Mon, 19 Sep 2022 20:51:46 +0800</lastBuildDate><atom:link href="https://genway.com.cn/hugo-theme-walden-demo/zh/tags/hugo-theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Walden 主题中 markdown 语法及示例 - 文本</title>
+      <title>Walden 主题中 markdown 语法效果演示</title>
       <link>https://genway.com.cn/hugo-theme-walden-demo/zh/blog/markdown-syntax-example/</link>
       <pubDate>Mon, 19 Sep 2022 20:51:46 +0800</pubDate>
       <author>author@domain.com (作者名称)</author>
       <guid>https://genway.com.cn/hugo-theme-walden-demo/zh/blog/markdown-syntax-example/</guid>
-      <description>&lt;p&gt;本文介绍编辑与文本有关的内容要素时常用的 Markdown 基本语法以及在 walden 主题中的示例。例如：标题、段落、引用、注解和列表等。&lt;/p&gt;</description>
+      <description>&lt;p&gt;Walden 主题使用标准的 markdown 语法编辑内容，本文演示了构成内容的标题、段落、图片、表格等要素的具体例子。&lt;/p&gt;</description>
     </item>
     
   </channel>
