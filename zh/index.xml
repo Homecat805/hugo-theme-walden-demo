@@ -27,5 +27,14 @@
       <description>&lt;p&gt;Walden 主题使用标准的 markdown 语法编辑内容，本文演示了构成内容的标题、段落、图片、表格等要素的具体例子。&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>特里卡基拉河三角洲</title>
+      <link>https://genway.com.cn/hugo-theme-walden-demo/zh/blog/post-example-lake-clerk/</link>
+      <pubDate>Fri, 03 Dec 2021 21:20:33 +0800</pubDate>
+      <author>author@domain.com (作者名称)</author>
+      <guid>https://genway.com.cn/hugo-theme-walden-demo/zh/blog/post-example-lake-clerk/</guid>
+      <description>&lt;p&gt;1980年的今天，美国总统卡特签署了《阿拉斯加国家利益土地保护法》。此前，阿拉斯加没有国家公园，而现在有8个国家公园，还有许多纪念地和保护区，保护着超过1.57亿英亩的土地。也正因为这个法案，公众才有机会欣赏今天照片里的绝美自然风景——克拉克湖国家公园长达51英里的特里卡基拉河三角洲。&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>

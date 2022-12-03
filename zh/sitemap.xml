@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/hugo/</loc>
-    <lastmod>2022-11-23T11:44:14+08:00</lastmod>
-  </url><url>
     <loc>https://genway.com.cn/hugo-theme-walden-demo/zh/blog/hugo-theme-walden/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
     <xhtml:link
@@ -16,6 +13,19 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://genway.com.cn/hugo-theme-walden-demo/zh/blog/hugo-theme-walden/"
+                />
+  </url><url>
+    <loc>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/hugo-theme/</loc>
+    <lastmod>2022-11-23T11:44:14+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genway.com.cn/hugo-theme-walden-demo/en/tags/hugo-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://genway.com.cn/hugo-theme-walden-demo/zh/tags/hugo-theme/"
                 />
   </url><url>
     <loc>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/</loc>
@@ -73,19 +83,6 @@
     <loc>https://genway.com.cn/hugo-theme-walden-demo/zh/categories/%E6%95%B0%E5%AD%97%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
   </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/hugo-theme/</loc>
-    <lastmod>2022-09-19T20:51:46+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://genway.com.cn/hugo-theme-walden-demo/en/tags/hugo-theme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://genway.com.cn/hugo-theme-walden-demo/zh/tags/hugo-theme/"
-                />
-  </url><url>
     <loc>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/markdown/</loc>
     <lastmod>2022-09-19T20:51:46+08:00</lastmod>
     <xhtml:link
@@ -110,6 +107,48 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://genway.com.cn/hugo-theme-walden-demo/zh/blog/markdown-syntax-example/"
+                />
+  </url><url>
+    <loc>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/bing/</loc>
+    <lastmod>2021-12-03T21:20:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genway.com.cn/hugo-theme-walden-demo/en/tags/bing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://genway.com.cn/hugo-theme-walden-demo/zh/tags/bing/"
+                />
+  </url><url>
+    <loc>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/lake-clerk/</loc>
+    <lastmod>2021-12-03T21:20:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genway.com.cn/hugo-theme-walden-demo/en/tags/lake-clerk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://genway.com.cn/hugo-theme-walden-demo/zh/tags/lake-clerk/"
+                />
+  </url><url>
+    <loc>https://genway.com.cn/hugo-theme-walden-demo/zh/categories/%E5%BF%85%E5%BA%94%E7%BE%8E%E5%9B%BE/</loc>
+    <lastmod>2021-12-03T21:20:33+08:00</lastmod>
+  </url><url>
+    <loc>https://genway.com.cn/hugo-theme-walden-demo/zh/blog/post-example-lake-clerk/</loc>
+    <lastmod>2021-12-03T21:20:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genway.com.cn/hugo-theme-walden-demo/en/blog/post-example-lake-clerk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://genway.com.cn/hugo-theme-walden-demo/zh/blog/post-example-lake-clerk/"
                 />
   </url>
 </urlset>

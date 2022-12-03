@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bing Gallery on Walden</title>
+    <link>https://genway.com.cn/hugo-theme-walden-demo/en/categories/bing-gallery/</link>
+    <description>Recent content in Bing Gallery on Walden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>author@domain.com (Author Name)</managingEditor>
+    <webMaster>author@domain.com (Author Name)</webMaster>
+    <lastBuildDate>Fri, 03 Dec 2021 21:20:33 +0800</lastBuildDate><atom:link href="https://genway.com.cn/hugo-theme-walden-demo/en/categories/bing-gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trikakyla River Delta</title>
+      <link>https://genway.com.cn/hugo-theme-walden-demo/en/blog/post-example-lake-clerk/</link>
+      <pubDate>Fri, 03 Dec 2021 21:20:33 +0800</pubDate>
+      <author>author@domain.com (Author Name)</author>
+      <guid>https://genway.com.cn/hugo-theme-walden-demo/en/blog/post-example-lake-clerk/</guid>
+      <description>&lt;p&gt;On this day in 1980, U.S. President Jimmy Carter signed the Alaska National Interest Land Protection Act. Previously, Alaska had no national parks, but now there are 8 national parks, as well as many memorials and reserves, protecting more than 157 million acres. It is because of this law that the public has the opportunity to enjoy the stunning natural scenery pictured today, the 51-mile Trikakilla River Delta in Clark Lake National Park.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

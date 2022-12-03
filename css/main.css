@@ -24,8 +24,7 @@ a {
 
 .container-main {
   background-color: #fff;
-  padding: .5rem;
-  margin-bottom: 3rem; }
+  padding: .5rem; }
 
 .container-main-item {
   padding: .5rem; }
@@ -81,6 +80,9 @@ a {
 
 .inactive {
   display: none; }
+
+.pt-5 {
+  padding-top: 3rem; }
 
 html {
   height: 100%; }
@@ -366,6 +368,19 @@ body {
       display: inline-block;
       width: 1rem;
       margin-left: -1rem; }
+
+.normal img {
+  width: 100%;
+  max-width: 100%; }
+
+.normal p {
+  text-align: center;
+  font-size: .875rem;
+  color: #6c757d;
+  margin-top: .5rem; }
+  .normal p i {
+    font-size: 1rem;
+    margin-right: .5rem; }
 
 .content .content-header {
   text-align: center;

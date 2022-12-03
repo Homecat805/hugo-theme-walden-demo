@@ -18,5 +18,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Bing Gallery</title>
+      <link>https://genway.com.cn/hugo-theme-walden-demo/en/categories/bing-gallery/</link>
+      <pubDate>Fri, 03 Dec 2021 21:20:33 +0800</pubDate>
+      <author>author@domain.com (Author Name)</author>
+      <guid>https://genway.com.cn/hugo-theme-walden-demo/en/categories/bing-gallery/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

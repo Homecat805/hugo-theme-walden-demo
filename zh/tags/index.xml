@@ -10,18 +10,9 @@
     <webMaster>author@domain.com (作者名称)</webMaster>
     <lastBuildDate>Wed, 23 Nov 2022 11:44:14 +0800</lastBuildDate><atom:link href="https://genway.com.cn/hugo-theme-walden-demo/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo</title>
-      <link>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/hugo/</link>
-      <pubDate>Wed, 23 Nov 2022 11:44:14 +0800</pubDate>
-      <author>author@domain.com (作者名称)</author>
-      <guid>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hugo-theme</title>
       <link>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/hugo-theme/</link>
-      <pubDate>Mon, 19 Sep 2022 20:51:46 +0800</pubDate>
+      <pubDate>Wed, 23 Nov 2022 11:44:14 +0800</pubDate>
       <author>author@domain.com (作者名称)</author>
       <guid>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/hugo-theme/</guid>
       <description></description>
@@ -33,6 +24,24 @@
       <pubDate>Mon, 19 Sep 2022 20:51:46 +0800</pubDate>
       <author>author@domain.com (作者名称)</author>
       <guid>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bing</title>
+      <link>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/bing/</link>
+      <pubDate>Fri, 03 Dec 2021 21:20:33 +0800</pubDate>
+      <author>author@domain.com (作者名称)</author>
+      <guid>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/bing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lake Clerk</title>
+      <link>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/lake-clerk/</link>
+      <pubDate>Fri, 03 Dec 2021 21:20:33 +0800</pubDate>
+      <author>author@domain.com (作者名称)</author>
+      <guid>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/lake-clerk/</guid>
       <description></description>
     </item>
     
