@@ -83,6 +83,32 @@
     <loc>https://genway.com.cn/hugo-theme-walden-demo/zh/categories/%E6%95%B0%E5%AD%97%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2022-11-23T11:44:14+08:00</lastmod>
   </url><url>
+    <loc>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/hugo/</loc>
+    <lastmod>2022-11-05T10:01:53+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genway.com.cn/hugo-theme-walden-demo/en/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://genway.com.cn/hugo-theme-walden-demo/zh/tags/hugo/"
+                />
+  </url><url>
+    <loc>https://genway.com.cn/hugo-theme-walden-demo/zh/blog/hugo-theme-walden-tips/</loc>
+    <lastmod>2022-11-05T10:01:53+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://genway.com.cn/hugo-theme-walden-demo/en/blog/hugo-theme-walden-tips/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://genway.com.cn/hugo-theme-walden-demo/zh/blog/hugo-theme-walden-tips/"
+                />
+  </url><url>
     <loc>https://genway.com.cn/hugo-theme-walden-demo/zh/tags/markdown/</loc>
     <lastmod>2022-09-19T20:51:46+08:00</lastmod>
     <xhtml:link

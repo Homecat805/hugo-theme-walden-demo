@@ -19,6 +19,15 @@
     </item>
     
     <item>
+      <title>Tips For Using Walden</title>
+      <link>https://genway.com.cn/hugo-theme-walden-demo/en/blog/hugo-theme-walden-tips/</link>
+      <pubDate>Sat, 05 Nov 2022 10:01:53 +0800</pubDate>
+      <author>author@domain.com (Author Name)</author>
+      <guid>https://genway.com.cn/hugo-theme-walden-demo/en/blog/hugo-theme-walden-tips/</guid>
+      <description>&lt;p&gt;In the process of use, especially content editing and image preparation, there are some tips to follow in order to make the layout of Hugo theme Walden reasonable, functional and efficient.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Markdown Examples for Hugo Theme Walden</title>
       <link>https://genway.com.cn/hugo-theme-walden-demo/en/blog/markdown-syntax-example/</link>
       <pubDate>Mon, 19 Sep 2022 20:51:46 +0800</pubDate>

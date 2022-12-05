@@ -374,13 +374,14 @@ body {
   max-width: 100%; }
 
 .normal p {
-  text-align: center;
+  text-align: left;
   font-size: .875rem;
+  line-height: 1.5rem;
   color: #6c757d;
   margin-top: .5rem; }
   .normal p i {
     font-size: 1rem;
-    margin-right: .5rem; }
+    margin: 0 .5rem 0 .25rem; }
 
 .content .content-header {
   text-align: center;
