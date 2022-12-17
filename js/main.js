@@ -10914,7 +10914,7 @@ $(document).ready(function(){
   // Figure-toggle for enter Modal status
 
   $(".figure-toggle").click(function () {
-    $(this).parents(".figure").children(".figure-modal-container").removeClass("inactive").addClass("active")
+    $(this).parents(".myfigure").children(".figure-modal-container").removeClass("inactive").addClass("active");
   });
   
   // Modal button for Next and Prev
