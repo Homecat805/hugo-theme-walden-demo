@@ -1,50 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/blog/</loc>
-    <lastmod>2022-12-17T19:03:08+08:00</lastmod>
-  </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/categories/</loc>
-    <lastmod>2022-12-17T19:03:08+08:00</lastmod>
-  </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/</loc>
-    <lastmod>2022-12-17T19:03:08+08:00</lastmod>
-  </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/tags/hugo/</loc>
-    <lastmod>2022-12-17T19:03:08+08:00</lastmod>
-  </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/blog/hugo-theme-walden/</loc>
-    <lastmod>2022-12-17T19:03:08+08:00</lastmod>
-  </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/tags/</loc>
-    <lastmod>2022-12-17T19:03:08+08:00</lastmod>
-  </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/categories/%E6%95%B0%E5%AD%97%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2022-12-17T19:03:08+08:00</lastmod>
-  </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/blog/nepal-trekking-abc/</loc>
-    <lastmod>2022-12-15T21:58:50+08:00</lastmod>
-  </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/tags/%E5%B0%BC%E6%B3%8A%E5%B0%94/</loc>
-    <lastmod>2022-12-15T21:58:50+08:00</lastmod>
-  </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/tags/%E5%BE%92%E6%AD%A5/</loc>
-    <lastmod>2022-12-15T21:58:50+08:00</lastmod>
-  </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/categories/%E8%A1%8C%E8%80%85%E6%97%A0%E7%96%86/</loc>
-    <lastmod>2022-12-15T21:58:50+08:00</lastmod>
-  </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/blog/formats-of-shortcodes/</loc>
-    <lastmod>2022-12-15T10:10:34+08:00</lastmod>
-  </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/tags/shortcode/</loc>
-    <lastmod>2022-12-15T10:10:34+08:00</lastmod>
-  </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/blog/formats-of-markdown-elements/</loc>
-    <lastmod>2022-12-14T20:18:32+08:00</lastmod>
-  </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/tags/markdown/</loc>
-    <lastmod>2022-12-14T20:18:32+08:00</lastmod>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://genway.com.cn/hugo-theme-walden-demo/en/sitemap.xml</loc>
+    
+      <lastmod>2022-12-17T19:03:08+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://genway.com.cn/hugo-theme-walden-demo/zh/sitemap.xml</loc>
+    
+      <lastmod>2022-12-15T21:58:50+08:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

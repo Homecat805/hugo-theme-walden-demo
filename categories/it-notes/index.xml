@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Walden</title>
-    <link>https://genway.com.cn/hugo-theme-walden-demo/blog/</link>
-    <description>Recent content in Blog on Walden</description>
+    <title>IT Notes on Walden</title>
+    <link>https://genway.com.cn/hugo-theme-walden-demo/categories/it-notes/</link>
+    <description>Recent content in IT Notes on Walden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <managingEditor>13050082@qq.com (Homecat)</managingEditor>
     <webMaster>13050082@qq.com (Homecat)</webMaster>
-    <lastBuildDate>Sat, 17 Dec 2022 19:03:08 +0800</lastBuildDate><atom:link href="https://genway.com.cn/hugo-theme-walden-demo/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Dec 2022 19:03:08 +0800</lastBuildDate><atom:link href="https://genway.com.cn/hugo-theme-walden-demo/categories/it-notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Theme Walden</title>
       <link>https://genway.com.cn/hugo-theme-walden-demo/blog/hugo-theme-walden/</link>

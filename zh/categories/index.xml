@@ -1,29 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>栏目 on 瓦尔登湖</title>
+    <title>分类 on 瓦尔登湖</title>
     <link>https://genway.com.cn/hugo-theme-walden-demo/zh/categories/</link>
-    <description>Recent content in 栏目 on 瓦尔登湖</description>
+    <description>Recent content in 分类 on 瓦尔登湖</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <managingEditor>author@domain.com (作者名称)</managingEditor>
-    <webMaster>author@domain.com (作者名称)</webMaster>
-    <lastBuildDate>Wed, 23 Nov 2022 11:44:14 +0800</lastBuildDate><atom:link href="https://genway.com.cn/hugo-theme-walden-demo/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>13050082@qq.com (家猫)</managingEditor>
+    <webMaster>13050082@qq.com (家猫)</webMaster>
+    <lastBuildDate>Thu, 15 Dec 2022 21:58:50 +0800</lastBuildDate><atom:link href="https://genway.com.cn/hugo-theme-walden-demo/zh/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>数字笔记</title>
-      <link>https://genway.com.cn/hugo-theme-walden-demo/zh/categories/%E6%95%B0%E5%AD%97%E7%AC%94%E8%AE%B0/</link>
-      <pubDate>Wed, 23 Nov 2022 11:44:14 +0800</pubDate>
-      <author>author@domain.com (作者名称)</author>
-      <guid>https://genway.com.cn/hugo-theme-walden-demo/zh/categories/%E6%95%B0%E5%AD%97%E7%AC%94%E8%AE%B0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>必应美图</title>
-      <link>https://genway.com.cn/hugo-theme-walden-demo/zh/categories/%E5%BF%85%E5%BA%94%E7%BE%8E%E5%9B%BE/</link>
-      <pubDate>Fri, 03 Dec 2021 21:20:33 +0800</pubDate>
-      <author>author@domain.com (作者名称)</author>
-      <guid>https://genway.com.cn/hugo-theme-walden-demo/zh/categories/%E5%BF%85%E5%BA%94%E7%BE%8E%E5%9B%BE/</guid>
+      <title>行者无疆</title>
+      <link>https://genway.com.cn/hugo-theme-walden-demo/zh/categories/%E8%A1%8C%E8%80%85%E6%97%A0%E7%96%86/</link>
+      <pubDate>Thu, 15 Dec 2022 21:58:50 +0800</pubDate>
+      <author>13050082@qq.com (家猫)</author>
+      <guid>https://genway.com.cn/hugo-theme-walden-demo/zh/categories/%E8%A1%8C%E8%80%85%E6%97%A0%E7%96%86/</guid>
       <description></description>
     </item>
     

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Homecat</title>
+    <title>Home on Walden</title>
     <link>https://genway.com.cn/hugo-theme-walden-demo/</link>
-    <description>Recent content in Home on Homecat</description>
+    <description>Recent content in Home on Walden</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hans</language>
+    <language>en-US</language>
     <managingEditor>13050082@qq.com (Homecat)</managingEditor>
     <webMaster>13050082@qq.com (Homecat)</webMaster>
     <lastBuildDate>Sat, 17 Dec 2022 19:03:08 +0800</lastBuildDate><atom:link href="https://genway.com.cn/hugo-theme-walden-demo/index.xml" rel="self" type="application/rss+xml" />
@@ -16,15 +16,6 @@
       <author>13050082@qq.com (Homecat)</author>
       <guid>https://genway.com.cn/hugo-theme-walden-demo/blog/hugo-theme-walden/</guid>
       <description>&lt;p&gt;After reading &lt;i&gt;&lt;b&gt;Walden&lt;/b&gt;&lt;/i&gt;, a collection of essays by American writer Henry David Thoreau, I was deeply influenced by his love of nature and simple living. So, I wrote this concise and clear theme for my personal website and named it Walden.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>安娜普尔纳 ABC 九日</title>
-      <link>https://genway.com.cn/hugo-theme-walden-demo/blog/nepal-trekking-abc/</link>
-      <pubDate>Thu, 15 Dec 2022 21:58:50 +0800</pubDate>
-      <author>13050082@qq.com (Homecat)</author>
-      <guid>https://genway.com.cn/hugo-theme-walden-demo/blog/nepal-trekking-abc/</guid>
-      <description>&lt;p&gt;安娜普尔纳（Annapurana）地区位于尼泊尔北部的喜马拉雅山中段，有两条成熟且知名的徒步线路：一条去往安娜普尔纳大本营ABC（Annapurna Base Camp），另一条围绕着安娜普尔纳群峰行进的环线ACT（Annapurna Circle Trail）。&lt;/p&gt;</description>
     </item>
     
     <item>
