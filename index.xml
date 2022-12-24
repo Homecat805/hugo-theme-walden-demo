@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Walden</title>
-    <link>http://example.org/</link>
+    <link>https://genwayh.com.cn/hugo-theme-walden-demo/</link>
     <description>Recent content in Home on Walden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <managingEditor>13050082@qq.com (Homecat)</managingEditor>
     <webMaster>13050082@qq.com (Homecat)</webMaster>
-    <lastBuildDate>Sat, 17 Dec 2022 19:03:08 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Dec 2022 19:03:08 +0800</lastBuildDate><atom:link href="https://genwayh.com.cn/hugo-theme-walden-demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Theme Walden</title>
-      <link>http://example.org/blog/hugo-theme-walden/</link>
+      <link>https://genwayh.com.cn/hugo-theme-walden-demo/blog/hugo-theme-walden/</link>
       <pubDate>Sat, 17 Dec 2022 19:03:08 +0800</pubDate>
       <author>13050082@qq.com (Homecat)</author>
-      <guid>http://example.org/blog/hugo-theme-walden/</guid>
+      <guid>https://genwayh.com.cn/hugo-theme-walden-demo/blog/hugo-theme-walden/</guid>
       <description>&lt;p&gt;After reading &lt;i&gt;&lt;b&gt;Walden&lt;/b&gt;&lt;/i&gt;, a collection of essays by American writer Henry David Thoreau, I was deeply influenced by his love of nature and simple living. So, I wrote this concise and clear theme for my personal website and named it Walden.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Formats of Shortcodes</title>
-      <link>http://example.org/blog/formats-of-shortcodes/</link>
+      <link>https://genwayh.com.cn/hugo-theme-walden-demo/blog/formats-of-shortcodes/</link>
       <pubDate>Thu, 15 Dec 2022 10:10:34 +0800</pubDate>
       <author>13050082@qq.com (Homecat)</author>
-      <guid>http://example.org/blog/formats-of-shortcodes/</guid>
+      <guid>https://genwayh.com.cn/hugo-theme-walden-demo/blog/formats-of-shortcodes/</guid>
       <description>&lt;p&gt;Shortcodes are simple snippets inside content files calling built-in or custom templates. This article shows the formats of shortcodes in hugo theme Walden.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Formats of Markdown Elements</title>
-      <link>http://example.org/blog/formats-of-markdown-elements/</link>
+      <link>https://genwayh.com.cn/hugo-theme-walden-demo/blog/formats-of-markdown-elements/</link>
       <pubDate>Wed, 14 Dec 2022 20:18:32 +0800</pubDate>
       <author>13050082@qq.com (Homecat)</author>
-      <guid>http://example.org/blog/formats-of-markdown-elements/</guid>
+      <guid>https://genwayh.com.cn/hugo-theme-walden-demo/blog/formats-of-markdown-elements/</guid>
       <description>&lt;p&gt;Markdown is a lightweight markup language used to add formatting elements to plaintext text documents. This article shows the formats of markdown elements in hugo theme Walden.&lt;/p&gt;</description>
     </item>
     

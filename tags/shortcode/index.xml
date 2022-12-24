@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shortcode on Walden</title>
-    <link>http://example.org/tags/shortcode/</link>
+    <link>https://genwayh.com.cn/hugo-theme-walden-demo/tags/shortcode/</link>
     <description>Recent content in Shortcode on Walden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <managingEditor>13050082@qq.com (Homecat)</managingEditor>
     <webMaster>13050082@qq.com (Homecat)</webMaster>
-    <lastBuildDate>Thu, 15 Dec 2022 10:10:34 +0800</lastBuildDate><atom:link href="http://example.org/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Dec 2022 10:10:34 +0800</lastBuildDate><atom:link href="https://genwayh.com.cn/hugo-theme-walden-demo/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formats of Shortcodes</title>
-      <link>http://example.org/blog/formats-of-shortcodes/</link>
+      <link>https://genwayh.com.cn/hugo-theme-walden-demo/blog/formats-of-shortcodes/</link>
       <pubDate>Thu, 15 Dec 2022 10:10:34 +0800</pubDate>
       <author>13050082@qq.com (Homecat)</author>
-      <guid>http://example.org/blog/formats-of-shortcodes/</guid>
+      <guid>https://genwayh.com.cn/hugo-theme-walden-demo/blog/formats-of-shortcodes/</guid>
       <description>&lt;p&gt;Shortcodes are simple snippets inside content files calling built-in or custom templates. This article shows the formats of shortcodes in hugo theme Walden.&lt;/p&gt;</description>
     </item>
     

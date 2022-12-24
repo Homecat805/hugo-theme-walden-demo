@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>分类 on 瓦尔登湖</title>
-    <link>http://example.org/zh/categories/</link>
+    <link>https://genwayh.com.cn/hugo-theme-walden-demo/zh/categories/</link>
     <description>Recent content in 分类 on 瓦尔登湖</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans-CN</language>
     <managingEditor>13050082@qq.com (家猫)</managingEditor>
     <webMaster>13050082@qq.com (家猫)</webMaster>
-    <lastBuildDate>Thu, 15 Dec 2022 21:58:50 +0800</lastBuildDate><atom:link href="http://example.org/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Dec 2022 21:58:50 +0800</lastBuildDate><atom:link href="https://genwayh.com.cn/hugo-theme-walden-demo/zh/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>行者无疆</title>
-      <link>http://example.org/zh/categories/%E8%A1%8C%E8%80%85%E6%97%A0%E7%96%86/</link>
+      <link>https://genwayh.com.cn/hugo-theme-walden-demo/zh/categories/%E8%A1%8C%E8%80%85%E6%97%A0%E7%96%86/</link>
       <pubDate>Thu, 15 Dec 2022 21:58:50 +0800</pubDate>
       <author>13050082@qq.com (家猫)</author>
-      <guid>http://example.org/zh/categories/%E8%A1%8C%E8%80%85%E6%97%A0%E7%96%86/</guid>
+      <guid>https://genwayh.com.cn/hugo-theme-walden-demo/zh/categories/%E8%A1%8C%E8%80%85%E6%97%A0%E7%96%86/</guid>
       <description></description>
     </item>
     
