@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/blog/</loc>
+    <loc>http://example.org/blog/</loc>
     <lastmod>2022-12-17T19:03:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://genway.com.cn/hugo-theme-walden-demo/zh/blog/"
+                href="http://example.org/zh/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genway.com.cn/hugo-theme-walden-demo/blog/"
+                href="http://example.org/blog/"
                 />
   </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/categories/</loc>
+    <loc>http://example.org/categories/</loc>
     <lastmod>2022-12-17T19:03:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://genway.com.cn/hugo-theme-walden-demo/zh/categories/"
+                href="http://example.org/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genway.com.cn/hugo-theme-walden-demo/categories/"
+                href="http://example.org/categories/"
                 />
   </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/</loc>
+    <loc>http://example.org/</loc>
     <lastmod>2022-12-17T19:03:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://genway.com.cn/hugo-theme-walden-demo/zh/"
+                href="http://example.org/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genway.com.cn/hugo-theme-walden-demo/"
+                href="http://example.org/"
                 />
   </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/tags/hugo/</loc>
+    <loc>http://example.org/tags/hugo/</loc>
     <lastmod>2022-12-17T19:03:08+08:00</lastmod>
   </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/blog/hugo-theme-walden/</loc>
+    <loc>http://example.org/blog/hugo-theme-walden/</loc>
     <lastmod>2022-12-17T19:03:08+08:00</lastmod>
   </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/categories/it-notes/</loc>
+    <loc>http://example.org/categories/it-notes/</loc>
     <lastmod>2022-12-17T19:03:08+08:00</lastmod>
   </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/tags/</loc>
+    <loc>http://example.org/tags/</loc>
     <lastmod>2022-12-17T19:03:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://genway.com.cn/hugo-theme-walden-demo/zh/tags/"
+                href="http://example.org/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://genway.com.cn/hugo-theme-walden-demo/tags/"
+                href="http://example.org/tags/"
                 />
   </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/blog/formats-of-shortcodes/</loc>
+    <loc>http://example.org/blog/formats-of-shortcodes/</loc>
     <lastmod>2022-12-15T10:10:34+08:00</lastmod>
   </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/tags/shortcode/</loc>
+    <loc>http://example.org/tags/shortcode/</loc>
     <lastmod>2022-12-15T10:10:34+08:00</lastmod>
   </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/blog/formats-of-markdown-elements/</loc>
+    <loc>http://example.org/blog/formats-of-markdown-elements/</loc>
     <lastmod>2022-12-14T20:18:32+08:00</lastmod>
   </url><url>
-    <loc>https://genway.com.cn/hugo-theme-walden-demo/tags/markdown/</loc>
+    <loc>http://example.org/tags/markdown/</loc>
     <lastmod>2022-12-14T20:18:32+08:00</lastmod>
   </url>
 </urlset>

@@ -1,29 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Homecat</title>
-    <link>https://genway.com.cn/hugo-theme-walden-demo/categories/</link>
-    <description>Recent content in Categories on Homecat</description>
+    <title>Category on Walden</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Category on Walden</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hans</language>
+    <language>en-US</language>
     <managingEditor>13050082@qq.com (Homecat)</managingEditor>
     <webMaster>13050082@qq.com (Homecat)</webMaster>
-    <lastBuildDate>Sat, 17 Dec 2022 19:03:08 +0800</lastBuildDate><atom:link href="https://genway.com.cn/hugo-theme-walden-demo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Dec 2022 19:03:08 +0800</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>数字笔记</title>
-      <link>https://genway.com.cn/hugo-theme-walden-demo/categories/%E6%95%B0%E5%AD%97%E7%AC%94%E8%AE%B0/</link>
+      <title>IT Notes</title>
+      <link>http://example.org/categories/it-notes/</link>
       <pubDate>Sat, 17 Dec 2022 19:03:08 +0800</pubDate>
       <author>13050082@qq.com (Homecat)</author>
-      <guid>https://genway.com.cn/hugo-theme-walden-demo/categories/%E6%95%B0%E5%AD%97%E7%AC%94%E8%AE%B0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>行者无疆</title>
-      <link>https://genway.com.cn/hugo-theme-walden-demo/categories/%E8%A1%8C%E8%80%85%E6%97%A0%E7%96%86/</link>
-      <pubDate>Thu, 15 Dec 2022 21:58:50 +0800</pubDate>
-      <author>13050082@qq.com (Homecat)</author>
-      <guid>https://genway.com.cn/hugo-theme-walden-demo/categories/%E8%A1%8C%E8%80%85%E6%97%A0%E7%96%86/</guid>
+      <guid>http://example.org/categories/it-notes/</guid>
       <description></description>
     </item>
     

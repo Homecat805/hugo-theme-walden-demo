@@ -1,56 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Homecat</title>
-    <link>https://genway.com.cn/hugo-theme-walden-demo/tags/</link>
-    <description>Recent content in Tags on Homecat</description>
+    <title>Tag on Walden</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tag on Walden</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hans</language>
+    <language>en-US</language>
     <managingEditor>13050082@qq.com (Homecat)</managingEditor>
     <webMaster>13050082@qq.com (Homecat)</webMaster>
-    <lastBuildDate>Sat, 17 Dec 2022 19:03:08 +0800</lastBuildDate><atom:link href="https://genway.com.cn/hugo-theme-walden-demo/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Dec 2022 19:03:08 +0800</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>https://genway.com.cn/hugo-theme-walden-demo/tags/hugo/</link>
+      <link>http://example.org/tags/hugo/</link>
       <pubDate>Sat, 17 Dec 2022 19:03:08 +0800</pubDate>
       <author>13050082@qq.com (Homecat)</author>
-      <guid>https://genway.com.cn/hugo-theme-walden-demo/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>尼泊尔</title>
-      <link>https://genway.com.cn/hugo-theme-walden-demo/tags/%E5%B0%BC%E6%B3%8A%E5%B0%94/</link>
-      <pubDate>Thu, 15 Dec 2022 21:58:50 +0800</pubDate>
-      <author>13050082@qq.com (Homecat)</author>
-      <guid>https://genway.com.cn/hugo-theme-walden-demo/tags/%E5%B0%BC%E6%B3%8A%E5%B0%94/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>徒步</title>
-      <link>https://genway.com.cn/hugo-theme-walden-demo/tags/%E5%BE%92%E6%AD%A5/</link>
-      <pubDate>Thu, 15 Dec 2022 21:58:50 +0800</pubDate>
-      <author>13050082@qq.com (Homecat)</author>
-      <guid>https://genway.com.cn/hugo-theme-walden-demo/tags/%E5%BE%92%E6%AD%A5/</guid>
+      <guid>http://example.org/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shortcode</title>
-      <link>https://genway.com.cn/hugo-theme-walden-demo/tags/shortcode/</link>
+      <link>http://example.org/tags/shortcode/</link>
       <pubDate>Thu, 15 Dec 2022 10:10:34 +0800</pubDate>
       <author>13050082@qq.com (Homecat)</author>
-      <guid>https://genway.com.cn/hugo-theme-walden-demo/tags/shortcode/</guid>
+      <guid>http://example.org/tags/shortcode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>https://genway.com.cn/hugo-theme-walden-demo/tags/markdown/</link>
+      <link>http://example.org/tags/markdown/</link>
       <pubDate>Wed, 14 Dec 2022 20:18:32 +0800</pubDate>
       <author>13050082@qq.com (Homecat)</author>
-      <guid>https://genway.com.cn/hugo-theme-walden-demo/tags/markdown/</guid>
+      <guid>http://example.org/tags/markdown/</guid>
       <description></description>
     </item>
     

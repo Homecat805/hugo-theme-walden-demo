@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Markdown on Homecat</title>
-    <link>https://genway.com.cn/hugo-theme-walden-demo/tags/markdown/</link>
-    <description>Recent content in Markdown on Homecat</description>
+    <title>Markdown on Walden</title>
+    <link>http://example.org/tags/markdown/</link>
+    <description>Recent content in Markdown on Walden</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hans</language>
+    <language>en-US</language>
     <managingEditor>13050082@qq.com (Homecat)</managingEditor>
     <webMaster>13050082@qq.com (Homecat)</webMaster>
-    <lastBuildDate>Wed, 14 Dec 2022 20:18:32 +0800</lastBuildDate><atom:link href="https://genway.com.cn/hugo-theme-walden-demo/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Dec 2022 20:18:32 +0800</lastBuildDate><atom:link href="http://example.org/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formats of Markdown Elements</title>
-      <link>https://genway.com.cn/hugo-theme-walden-demo/blog/formats-of-markdown-elements/</link>
+      <link>http://example.org/blog/formats-of-markdown-elements/</link>
       <pubDate>Wed, 14 Dec 2022 20:18:32 +0800</pubDate>
       <author>13050082@qq.com (Homecat)</author>
-      <guid>https://genway.com.cn/hugo-theme-walden-demo/blog/formats-of-markdown-elements/</guid>
+      <guid>http://example.org/blog/formats-of-markdown-elements/</guid>
       <description>&lt;p&gt;Markdown is a lightweight markup language used to add formatting elements to plaintext text documents. This article shows the formats of markdown elements in hugo theme Walden.&lt;/p&gt;</description>
     </item>
     
