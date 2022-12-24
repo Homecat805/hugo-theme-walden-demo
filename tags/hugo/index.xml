@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on Walden</title>
+    <title>Hugo on Homecat</title>
     <link>https://genway.com.cn/hugo-theme-walden-demo/tags/hugo/</link>
-    <description>Recent content in Hugo on Walden</description>
+    <description>Recent content in Hugo on Homecat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
+    <language>zh-Hans</language>
     <managingEditor>13050082@qq.com (Homecat)</managingEditor>
     <webMaster>13050082@qq.com (Homecat)</webMaster>
     <lastBuildDate>Sat, 17 Dec 2022 19:03:08 +0800</lastBuildDate><atom:link href="https://genway.com.cn/hugo-theme-walden-demo/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
